@@ -8,6 +8,7 @@
 企业愿景：做好中国智造的支点
 
 企业精神：信誉至上，服务第一，开拓创新，争创一流
+![image](https://11128735.s21i.faiusr.com/4/ABUIABAEGAAgspHPigYovIPLwgIwgAo40AU.png.webp)
 <!--
 **ProcessIOT/ProcessIOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
